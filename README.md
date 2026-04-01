@@ -61,7 +61,7 @@ Git • GitHub • REST APIs
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazar-birgul&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hazar-birgul&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" height="165" />
 </p>
 
 ## ⭐ Coding Time
