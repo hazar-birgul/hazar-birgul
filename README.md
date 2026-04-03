@@ -58,7 +58,7 @@ Git • GitHub • REST APIs
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 My Stats
 
 <p align="center">
   <img src="./profile/stats.svg" height="165" />

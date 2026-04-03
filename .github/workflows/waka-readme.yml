@@ -24,4 +24,4 @@ jobs:
           LANG_COUNT: 8
           SHOW_TIME: true
           SHOW_TOTAL: true
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
