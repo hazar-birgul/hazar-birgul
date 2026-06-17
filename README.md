@@ -70,18 +70,18 @@ Git • GitHub • REST APIs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2025 - To: 14 June 2026
+From: 21 December 2025 - To: 15 June 2026
 
-Total Time: 120 hrs 15 mins
+Total Time: 124 hrs 42 mins
 
-TypeScript        69 hrs 25 mins        █████████████▒░░░░░░░░░░░   53.89 %
-Python            21 hrs 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Other             8 hrs 34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Markdown          5 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Text              5 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON              5 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-C#                3 hrs 57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-JavaScript        3 hrs 35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TypeScript        71 hrs 51 mins        █████████████▒░░░░░░░░░░░   53.91 %
+Python            22 hrs 47 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+Other             8 hrs 34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Text              6 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Markdown          5 hrs 54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JSON              5 hrs 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+C#                3 hrs 57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JavaScript        3 hrs 35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
